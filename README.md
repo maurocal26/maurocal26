@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">Sou Maurício, desenvolvedor Full Stack em formação e estudante de Análise e Desenvolvimento de Sistemas.<br>Atualmente estou me aprofundando em Python, JavaScript, TypeScript, HTML, CSS e React — desenvolvendo projetos e evoluindo todos os dias.</h4>
+<h4 align="left">Me chamo Maurício, desenvolvedor Full Stack em formação e estudante de Análise e Desenvolvimento de Sistemas.<br>Atualmente estou me aprofundando em Python, JavaScript, TypeScript, HTML, CSS e React — desenvolvendo projetos e evoluindo todos os dias.</h4>
 
 ###
 
