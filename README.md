@@ -4,7 +4,7 @@
 
 <h4 align="left">Me chamo Maurício, desenvolvedor  em formação e estudante de Análise e Desenvolvimento de Sistemas.<br>Atualmente estou me aprofundando em Python, , Java, , desenvolvendo projetos e evoluindo todos os dias.</h4>
 
-###
+
 
 <h1 align="left">Sobre mim:</h1>
 
