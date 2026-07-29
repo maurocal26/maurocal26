@@ -10,8 +10,7 @@
 
 ###
 
-<h5 align="left">🎓 Estudante de Análise e Desenvolvimento de Sistemas<br><br>💻 Foco em Desenvolvimento Full Stack<br><br>🚀 Aprendendo Python, Java, JavaScript, TypeScript, HTML, CSS <br><br>🛠 Experiência com montagem e manutenção de computadores<br><br>📚 Desenvolvendo projetos para aprimorar minhas habilidades<br><br>🎯 Buscando minha primeira oportunidade na área de TI</h5>
-
+<h5 align="left"> Estudante de Análise e Desenvolvimento de Sistemas<br><br> Foco em Desenvolvimento e Cibersecurity <br><br> Aprendendo Python, Java <br><br>Experiência com montagem e manutenção de computadores<br><br> Desenvolvendo projetos para aprimorar minhas habilidades<br><br>
 ###
 
 <div align="left">
